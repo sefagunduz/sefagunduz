@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on AKINSOFT Software Engineering LLC.
+
+- 🌱 I’m currently learning Javascript and .NET Core
+
 <!--
 **sefagunduz/sefagunduz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
