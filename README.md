@@ -1,10 +1,10 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on AKINSOFT Software Engineering LLC.
 
 - 🌱 I’m currently learning Javascript and .NET Core
 
-####My Public Repositories
+### My Public Repositories
 
 - [n-tier-architecture](https://github.com/sefagunduz/n-tier-architecture)
 - [entity-framework-automapper](https://github.com/sefagunduz/entity-framework-automapper)
