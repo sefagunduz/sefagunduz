@@ -9,7 +9,7 @@
 - [n-tier-architecture](https://github.com/sefagunduz/n-tier-architecture)
 - [entity-framework-automapper](https://github.com/sefagunduz/entity-framework-automapper)
 - [oop-examples.js](https://github.com/sefagunduz/oop-examples.js)
-- [oop-examples-2.js](https://github.com/sefagunduz/oop-examples-2.js)
+- [oop-example-2.js](https://github.com/sefagunduz/oop-example-2.js)
 - [parallel-and-async-programming](https://github.com/sefagunduz/parallel-and-async-programming)
 - [core-web-api-token-auth](https://github.com/sefagunduz/core-web-api-token-auth)
 - [sample-dapper-crud](https://github.com/sefagunduz/sample-dapper-crud)
