@@ -5,6 +5,7 @@
 
 ### My Public Repositories
 
+- [DepremVerileri](https://github.com/sefagunduz/DepremVerileri)
 - [entity-framework-automapper](https://github.com/sefagunduz/entity-framework-automapper)
 - [oop-examples.js](https://github.com/sefagunduz/oop-examples.js)
 - [parallel-and-async-programming](https://github.com/sefagunduz/parallel-and-async-programming)
